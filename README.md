@@ -40,4 +40,4 @@ npm run lint
 The project connects to the mokky.dev API service for [specify purpose, e.g. fetching data, authentication, etc.]. [Include any specific instructions or code snippets here if necessary]
 
 ## Acknowledgements
-We would like to express our gratitude to **Archakov blog** for creating a course on Vue.js and the **mokky.dev** service for providing valuable resources and support. Thank you for your contributions to the Vue.js community.
+I would like to personally express my gratitude to **Archakov blog** for creating a course on Vue.js and the **mokky.dev** service for providing valuable resources and support. 
